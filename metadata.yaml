@@ -1,0 +1,33 @@
+_repo: Pal0xe6ontological-Report-of-the-Princeton-Scientific-Expedition-of-1877_64451
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Jr.
+    gutenberg_agent_id: '52908'
+    url: http://www.gutenberg.org/2009/agents/52908
+  - agent_name: Osborn, Henry Fairfield
+    alias: Osborn, Henry F. (Henry Fairfield)
+    birthdate: 1857
+    deathdate: 1935
+    gutenberg_agent_id: '31561'
+    url: http://www.gutenberg.org/2009/agents/31561
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Fairfield_Osborn
+  - agent_name: Scott, William Berryman
+    gutenberg_agent_id: '52906'
+    url: http://www.gutenberg.org/2009/agents/52906
+  - agent_name: Speir, Francis
+    gutenberg_agent_id: '52907'
+    url: http://www.gutenberg.org/2009/agents/52907
+description: ''
+gutenberg_issued: '2021-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Palæontological Report of the Princeton Scientific Expedition of 1877
+url: http://www.gutenberg.org/ebooks/64451
